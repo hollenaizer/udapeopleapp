@@ -223,7 +223,7 @@ jobs:
           root: ~/
           paths:
             - project/.circleci/ansible/inventory.txt
-      # add some code to rollback on failure
+      # add some code to rollback on fail
       - destroy-environment
       - revert-migrations
             
