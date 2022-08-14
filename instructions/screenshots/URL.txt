@@ -1,7 +1,7 @@
 URL for udapeople project 3
 
 [URL01] Github repo link:  https://github.com/hollenaizer/udapeopleapp
-[URL02] S3 bucket public link: http://udapeople-0a38b.s3-website-us-east-1.amazonaws.com
-[URL03] Cloudfront link: https://d27fr4tqvl4i0a.cloudfront.net
-[URL04] Link to deploy application ec2 instance : http://ec2-44-203-69-236.compute-1.amazonaws.com:3030/api/status
-[URL05]  Link to prometheus server: http://ec2-3-87-28-225.compute-1.amazonaws.com:9090/targets
+[URL02] S3 bucket public link: http://udapeople-c8d8f.s3-website-us-east-1.amazonaws.com
+[URL03] Cloudfront link: http://d16c8vstyz4wd5.cloudfront.net
+[URL04] Link to deploy application ec2 instance : http://ec2-52-91-15-38.compute-1.amazonaws.com:3030/api/status
+[URL05]  Link to prometheus server: http://ec2-54-91-99-108.compute-1.amazonaws.com:9090/targets

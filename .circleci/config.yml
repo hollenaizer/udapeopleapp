@@ -449,7 +449,7 @@ jobs:
             --parameter-overrides WorkflowID="${CIRCLE_WORKFLOW_ID:0:5}" \
             --tags project=udapeople
             echo "Current Workflow ID: ${CIRCLE_WORKFLOW_ID:0:5}"
-      # add some code to rollback on fail
+      # add some code to rollback on fa
       - destroy-environment
       - revert-migrations
   
